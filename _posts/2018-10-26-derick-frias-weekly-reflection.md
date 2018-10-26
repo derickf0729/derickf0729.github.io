@@ -1,0 +1,1 @@
+   in class we learned about the structure of an expression and we learned how that expression works when put into action and we learned about rackets. This is what using rackets looks like (*5(+ 2 8) The way rackets work is first you put a parenthises and then a function and a number
