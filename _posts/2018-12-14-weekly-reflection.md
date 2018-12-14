@@ -17,3 +17,7 @@ date:2018-12-14
 
 ```
 ![download](/images/greeceflag.png)
+
+  They only challenge was that I couldn't figure out how to connect the stripes and the base so that they are on the same image.
+  
+   
