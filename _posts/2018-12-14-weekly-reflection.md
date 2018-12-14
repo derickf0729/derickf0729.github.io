@@ -16,4 +16,4 @@ date:2018-12-14
 (put-image stripe 400 225 base)
 
 ```
-![download](/images/Flag
+![download](/images/WeScheme Image.png)
