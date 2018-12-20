@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://hankquinlan.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id></id>
 	<author>
 		<name>Derick Frias</name>
 		<email>derickf0729@afsenyc.org</email>
