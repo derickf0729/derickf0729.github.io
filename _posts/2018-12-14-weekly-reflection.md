@@ -1,7 +1,7 @@
 ---
 layout:post
 title:"Flag project-in progress"
-date:2018-12-14
+date: 2018-12-14
 ---
   
  Currenlty in my Greece flag program i've figured out how to create the stripes and the base of the flag. Below is the current state of my flag program. 
