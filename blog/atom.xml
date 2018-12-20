@@ -8,7 +8,7 @@ layout: feed
 	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://hankquinlan.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id></id>
+	<id>https://derickf0729.github.io/blog/</id>
 	<author>
 		<name>Derick Frias</name>
 		<email>derickf0729@afsenyc.org</email>
@@ -25,3 +25,4 @@ layout: feed
 	{% endfor %}
 
 </feed>
+https://derickf0729.github.io/blog/
