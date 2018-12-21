@@ -8,17 +8,19 @@ date: 2018-12-21
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
 
-<!--- Delete this comment and add your writing -->
+
+
+ I designed this flag for Greece
+ I expect either a 3 or 2 because I was able to create the flag and make it as close to the real flag as possible, but was not able to create a function do scale it.
+
 
 ## Current output
 
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![Flag](/images/final-flag.png)
+![Flag](/images/finalflag.png)
 * * *
 
 ## Describe your process.
