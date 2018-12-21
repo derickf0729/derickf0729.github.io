@@ -20,26 +20,31 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+ First I made a refrence by researching the flag and creating a collage of the flag. Then I had to figure out how to connect each stripe to the same image, to figure this out I asked one of my peers how to use put-image and he explained to me what I was doing wrong and showed me how to properly use put-image which helped me to get to the point at which I am at now . 
 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
+ The first argument is the color of my base and this a signicicant part of my program because I really wanted to get the exact colors of the flag. 
+  This argument is what gives me base it's color and it's where all the stripes are put on. 
 
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+(define gblue(make-color 13 94 175 ))
+(define base (rectangle 600 330 "solid" gblue))
+(define stripe(rectangle 400 35 "solid" "white"))
+(define longstripe(rectangle 800 35 "solid""white"))
+(define verticalstripe(rectangle 45 325 "solid""white"))
+(define horizontalstripe(rectangle 325 40 "solid""white"))
+(define blueline(rectangle 800 35 "solid"gblue))
+(define testbase(rectangle 600 400 "solid" "white"))
 ```
 
 * * *
 
--   Explain the code you posted by telling us about each argument.
+Each function above is what my flag is made out of
 -   Then tell us how your code section fits into the whole.
  
 <!--- Delete this comment and add your writing -->
