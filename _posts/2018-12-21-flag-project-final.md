@@ -4,20 +4,15 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Greece by Derick Frias
 
 ## Describe your program
 
-
-
-
  I designed this flag for Greece
- I expect either a 3 or 2 because I was able to create the flag and make it as close to the real flag as possible, but was not able to create a function do scale it.
+ I expect either a 3 or 2 because I was able to create the flag and make it as close to the real flag as possible, but i was not able to create a function do scale it.
 
 
 ## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
 ![Flag](/images/finalflag.png)
